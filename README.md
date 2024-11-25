@@ -6,7 +6,7 @@
 
 ## 1. Acceptance of Terms
 
-By inviting, using, or interacting with **Ryttron Music Bot** ("the Bot") on your server, you agree to be bound by these Terms of Service ("Terms"). If you do not agree with these Terms, you must not use the Bot.  
+By inviting, using, or interacting with **Ryttron Music Bot** ("Ryttron") on your server, you agree to be bound by these Terms of Service ("Terms"). If you do not agree with these Terms, you must not use the Bot.  
 
 These Terms apply to all users of the Bot, including server owners, administrators, and members interacting with the Bot.
 
