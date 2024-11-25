@@ -19,7 +19,7 @@ These Terms apply to all users of the Bot, including server owners, administrato
 ---
 
 ## 3. Premium Features
-- 24/7 on voice dicord voice channel
+- 24/7 on voice discord voice channel
 - Change language
 
 ### 3.1 Description of Premium Services
