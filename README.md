@@ -70,7 +70,7 @@ Ryttron may connect to third-party services (e.g., YouTube, Spotify) to stream m
 
 ## 6. Data Collection and Privacy
 
-For details on how Ryttron collects, uses, and protects your data, please refer to our [Privacy Policy](./Privacy-Policy.md).  
+For details on how Ryttron collects, uses, and protects your data, please refer to our [[Privacy Policy](https://github.com/Limeamirs/Privacy-Policy/blob/main/README.md)]
 
 ---
 
