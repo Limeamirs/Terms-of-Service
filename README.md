@@ -22,17 +22,9 @@ These Terms apply to all users of the Bot, including server owners, administrato
 - 24/7 on voice discord voice channel
 - Change language
 
-### 3.1 Description of Premium Services
-
-Ryttron offers optional paid features ("Premium"), which include:  
-- Access to exclusive features such as advanced playlist management
-- Priority access to server resources to minimize delays or interruptions.  
-
-Premium services are available via subscription. Details can be found on our [[Discord server](https://discord.gg/3nybtbPBJD)](#).
-
 ---
 
-### 3.2 Payment Terms
+### 3.1 Payment Terms
 
 - All payments for premium services are processed through third-party providers (e.g., Stripe, PayPal).  
 - Premium subscriptions are billed in advance for the specified period (e.g., monthly, yearly).  
@@ -40,7 +32,7 @@ Premium services are available via subscription. Details can be found on our [[D
 
 ---
 
-### 3.3 Suspension or Termination of Premium Access
+### 3.2 Suspension or Termination of Premium Access
 
 We reserve the right to suspend or terminate premium features in cases of:  
 - Violation of these Terms.  
